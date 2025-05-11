@@ -6,7 +6,7 @@ A draggable card board for Obsidian that lets you visually manage:
 
 ## DEMO
 
-
+![Demo of Drag Board](assets/demo.gif)
 
 ## How to use
 
