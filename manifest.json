@@ -1,0 +1,11 @@
+{
+	"id": "drag-board",
+	"name": "Drag Board",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Display filters/queries as draggable items on a board.",
+	"author": "JamaLama",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
