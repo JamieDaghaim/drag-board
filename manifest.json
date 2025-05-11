@@ -1,8 +1,10 @@
 {
   "id": "drag-board",
   "name": "Drag Board",
-  "description": "Display highlights/tasks as draggable items on a board.",
   "author": "JamaLama",
+  "description": "Display highlights/tasks as draggable items on a board.",
   "version": "1.0.0",
-  "minAppVersion": "1.0.0"
+  "minAppVersion": "0.15.0",
+  "repo": "jamiedaghaim/drag-board",
+  "isDesktopOnly": false
 }
