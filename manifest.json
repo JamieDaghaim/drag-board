@@ -4,6 +4,5 @@
   "description": "Display highlights/tasks as draggable items on a board.",
   "author": "JamaLama",
   "version": "1.0.0",
-  "minAppVersion": "1.0.0",
-  "isDesktopOnly": false
+  "minAppVersion": "1.0.0"
 }
